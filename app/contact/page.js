@@ -51,7 +51,7 @@ const Contact = () => {
         </button>
 
         <a
-          href="/resume.pdf"
+          href="/My Resume.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="border border-white/20 rounded-xl px-4 py-4 flex items-center justify-between hover:border-white/45 transition"

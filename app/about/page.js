@@ -19,7 +19,7 @@ const About = () => {
       <section className="panel p-6 md:p-8 reveal-up">
         <h1 className="text-3xl md:text-4xl font-extrabold">About Me</h1>
         <p className="mt-4 text-white/90 leading-7">
-          I am Panchal Harsh, an aspiring web developer taking a pragmatic journey into the tech world. 
+          I am Panchal Harsh, a mature web developer taking a pragmatic journey into the tech world. 
           While currently focusing heavily on modern JavaScript web development—building with React, Next.js, and Tailwind—my long-term goal lies in traversing deep into Artificial Intelligence and Machine Learning. I deeply believe in understanding logic instead of blindly copying code, which is why I use Generative AI as an intelligent assistant to save time and grasp workflows efficiently. What I build is guided by clean design, functionality, and the ambition to learn.
         </p>
       </section>
