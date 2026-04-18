@@ -60,7 +60,7 @@ const Contact = () => {
             <FaFile/>
             My Resume
           </span>
-          <span className="text-sm muted">Adding Soon</span>
+          <span className="text-sm muted">View</span>
         </a>
 
         <a
